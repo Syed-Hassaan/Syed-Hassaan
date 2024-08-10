@@ -1,5 +1,5 @@
 <h2 align="center">👋
-  Hi, I'm
+  Hi,
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 
