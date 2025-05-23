@@ -60,7 +60,6 @@
 <p align="left" >
 <a href="https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en&gl=US" target="UpAlerts"><img src="https://play-lh.googleusercontent.com/Ngq8sxTvZxjJHRr8ZObgFshMFW_2u3e3Oit3pd0yW-LaGaqD9zf5oBW8zHK2IGq9eg=w240-h480-rw" height="80" title=UpAlerts /></a>&emsp;
 <a href="https://play.google.com/store/apps/details?id=com.propertywallet.app" target="PropertyWallet"><img src="https://i.imgur.com/pNRhhzG.png" height="80" title=PropertyWallet/></a>&emsp;
-<a href="" target="MavenX"><img src="https://i.imgur.com/zaUscXU.png" width="80"  height="80"   title="MavenX"></a>&emsp;
 <a href="" target="EmaanMall"><img src="https://i.imgur.com/2X3BGfV.jpeg"  width="80"  height="80"  border-radius="20px" title= "EmaanMall"/></a>&emsp;
 <a href="" target="FemmeGuard"><img src="https://i.imgur.com/r1j5wMm.png"  width="80"  height="80"  title="FemmeGuard"></a>&emsp;
 <a href="" target="MyKashmir"><img src="https://i.imgur.com/CkD7SC1.png"  width="80"  height="80" border-radius="20px" title= "MyKashmir"/></a>&emsp;
